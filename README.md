@@ -5,4 +5,4 @@ it takes a Site/Game name and the desired amount of characters your password, Ge
 and saves it to a file, then whenever the program is lauched
 it will read the file that contains your Site/Game and your password and displays them ocordingly
 
-Note: you need to create a file named passwords.json in the directory you launchd the script from, (the zip)
+Don't be dumb, have python installed to run this script, the .bat file will lauch it from here, but using the console works just the same
